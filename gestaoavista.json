@@ -1,0 +1,18 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "websites": [
+    {
+      "url": "https://app.powerbi.com/groups/me/reports/ffaece51-8002-4ab2-a746-a38955885edd/ReportSection?chromeless=1",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 3600
+    },
+    {
+      "url": "https://google.com",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 180
+    }
+  ]
+}
