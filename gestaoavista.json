@@ -5,7 +5,7 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "https://app.powerbi.com/groups/me/reports/8f064c44-4a1e-4eac-9def-9a1775db53b1/ReportSection?chromeless=1",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiZTcwMzU5MDgtNWM2NS00YTU1LTg5MTMtMWFiOTUwYTg0NTU4IiwidCI6ImIyNGNhYzVhLTc3ZGItNDNmNi05NGY2LTRiOTJlNjZjMDViZSJ9",
       "duration": 30,
       "tabReloadIntervalSeconds": 1800
     },
