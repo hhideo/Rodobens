@@ -5,12 +5,12 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "https://app.powerbi.com/view?r=eyJrIjoiMGFiZTkyY2ItYTI5OC00NThlLTg1ZWQtNjI4YTlmYzk4M2MxIiwidCI6ImIyNGNhYzVhLTc3ZGItNDNmNi05NGY2LTRiOTJlNjZjMDViZSJ9",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiNzVmZjYyMmUtMTFlYy00Zjk1LTkyYzUtNzJiYmU1NWM3ODI4IiwidCI6ImIyNGNhYzVhLTc3ZGItNDNmNi05NGY2LTRiOTJlNjZjMDViZSJ9",
       "duration": 30,
       "tabReloadIntervalSeconds": 1800
     },
     {
-      "url": "https://app.powerbi.com/view?r=eyJrIjoiNzVmZjYyMmUtMTFlYy00Zjk1LTkyYzUtNzJiYmU1NWM3ODI4IiwidCI6ImIyNGNhYzVhLTc3ZGItNDNmNi05NGY2LTRiOTJlNjZjMDViZSJ9",
+      "url": "",
       "duration": 30,
       "tabReloadIntervalSeconds": 1800
     }
