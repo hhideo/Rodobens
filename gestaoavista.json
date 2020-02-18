@@ -18,6 +18,11 @@
       "url": "https://app.powerbi.com/view?r=eyJrIjoiNjE1NzYzZmQtYjAyOC00M2RiLWJhYjYtYWZiZjM3MjZjMjQzIiwidCI6ImIyNGNhYzVhLTc3ZGItNDNmNi05NGY2LTRiOTJlNjZjMDViZSJ9",
       "duration": 30,
       "tabReloadIntervalSeconds": 1800
+    },
+    {
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiNTRiZWFiMTUtYWQxMS00ZTI0LThiNWItNDg0MzZkMmI2ZWU3IiwidCI6ImIyNGNhYzVhLTc3ZGItNDNmNi05NGY2LTRiOTJlNjZjMDViZSJ9",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 1800
     }
   ]
 }
