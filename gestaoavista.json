@@ -7,22 +7,22 @@
     {
       "url": "https://app.powerbi.com/view?r=eyJrIjoiNzVmZjYyMmUtMTFlYy00Zjk1LTkyYzUtNzJiYmU1NWM3ODI4IiwidCI6ImIyNGNhYzVhLTc3ZGItNDNmNi05NGY2LTRiOTJlNjZjMDViZSJ9",
       "duration": 30,
-      "tabReloadIntervalSeconds": 1800
+      "tabReloadIntervalSeconds": 3600
     },
     {
       "url": "https://app.powerbi.com/view?r=eyJrIjoiMGFiZTkyY2ItYTI5OC00NThlLTg1ZWQtNjI4YTlmYzk4M2MxIiwidCI6ImIyNGNhYzVhLTc3ZGItNDNmNi05NGY2LTRiOTJlNjZjMDViZSJ9",
       "duration": 30,
-      "tabReloadIntervalSeconds": 1800
+      "tabReloadIntervalSeconds": 3600
     },
     {
       "url": "https://app.powerbi.com/view?r=eyJrIjoiNjE1NzYzZmQtYjAyOC00M2RiLWJhYjYtYWZiZjM3MjZjMjQzIiwidCI6ImIyNGNhYzVhLTc3ZGItNDNmNi05NGY2LTRiOTJlNjZjMDViZSJ9",
       "duration": 30,
-      "tabReloadIntervalSeconds": 1800
+      "tabReloadIntervalSeconds": 3600
     },
     {
       "url": "https://app.powerbi.com/view?r=eyJrIjoiMjg0ZTM2MzEtMzBiYi00NzlkLWE3MzMtN2E1ZWM3MzU3OGJmIiwidCI6ImIyNGNhYzVhLTc3ZGItNDNmNi05NGY2LTRiOTJlNjZjMDViZSJ9",
       "duration": 30,
-      "tabReloadIntervalSeconds": 1800
+      "tabReloadIntervalSeconds": 3600
     }
   ]
 }
